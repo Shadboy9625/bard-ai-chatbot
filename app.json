@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ai-chat",
-    "slug": "ai-chat",
+    "name": "Chat-With-Bard",
+    "slug": "Chat-With-Bard",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
